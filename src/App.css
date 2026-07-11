@@ -270,6 +270,14 @@
   white-space: nowrap;
 }
 
+.exercise-mobile-card .exercise-row-actions {
+  white-space: normal;
+}
+
+.exercise-mobile-card .exercise-row-actions > * {
+  flex: 1 1 0;
+}
+
 .exercise-cards {
   display: none;
 }

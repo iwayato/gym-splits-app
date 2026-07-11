@@ -1,0 +1,341 @@
+{
+  "routines": [
+    {
+      "name": "Pecho, Hombro y Tríceps",
+      "order": 0,
+      "exercises": [
+        {
+          "name": "Cuffed Behind-The-Back Lateral Raise",
+          "muscleGroup": "Hombro",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Sube los cables hacia afuera en forma de \"Y\". Conecta con la fibra media del deltoides.",
+          "order": 0
+        },
+        {
+          "name": "Low Incline Smith Machine Press",
+          "muscleGroup": "Pecho",
+          "workSets": 4,
+          "targetReps": "8-10",
+          "rpeInitial": "~8-9",
+          "rpeLast": "~9-10",
+          "rest": "~2-3 min",
+          "notes": "Banco a ~15°. Pausa de 1 seg en el pecho en cada rep manteniendo tensión.",
+          "order": 1
+        },
+        {
+          "name": "Pec Deck (con Parciales Integradas)",
+          "muscleGroup": "Pecho",
+          "workSets": 3,
+          "targetReps": "12-15",
+          "rpeInitial": "~8-9",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Alterna reps de rango completo y reps de medio rango (parte baja) hasta llegar a las reps objetivo.",
+          "order": 2
+        },
+        {
+          "name": "Overhead Cable Triceps Extension (Bar)",
+          "muscleGroup": "Tríceps",
+          "workSets": 3,
+          "targetReps": "8",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Dropset. Siente el estiramiento en el tríceps durante toda la negativa, pausa 1 seg en el estiramiento.",
+          "order": 3
+        },
+        {
+          "name": "Triceps Pressdown (Bar)",
+          "muscleGroup": "Tríceps",
+          "workSets": 2,
+          "targetReps": "8-10",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Dropset. Usa barra (más pesado que cuerda). Mantén forma estricta mientras sobrecargas el tríceps.",
+          "order": 4
+        },
+        {
+          "name": "Machine Shoulder Press",
+          "muscleGroup": "Hombro",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Codos rompen al menos 90°. Conexión mente-músculo, reps controladas.",
+          "order": 5
+        },
+        {
+          "name": "Cross-Body Cable Y-Raise",
+          "muscleGroup": "Hombro",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Barre el cable hacia arriba y afuera en diagonal, cruzando el cuerpo.",
+          "order": 6
+        },
+        {
+          "name": "Paused Assisted Dip",
+          "muscleGroup": "Pecho",
+          "workSets": 3,
+          "targetReps": "8-10",
+          "rpeInitial": "~8-9",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Negativa lenta de 2-3 seg, pausa 1-2 seg abajo. Explota al subir, baja tanto como el hombro lo permita.",
+          "order": 7
+        },
+        {
+          "name": "Low-Incline Dumbbell Flye",
+          "muscleGroup": "Pecho",
+          "workSets": 2,
+          "targetReps": "15-20",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Mancuernas en el tercio inferior del rango de movimiento para maximizar el estiramiento del pectoral.",
+          "order": 8
+        },
+        {
+          "name": "Katana Triceps Extension",
+          "muscleGroup": "Tríceps",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Codos abiertos a ~45° y fijos en su lugar mientras completas la extensión.",
+          "order": 9
+        }
+      ]
+    },
+    {
+      "name": "Core",
+      "order": 1,
+      "exercises": [
+        {
+          "name": "Cable Crunch",
+          "muscleGroup": "Abdomen (recto)",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Redondea la espalda baja mientras haces el crunch. Mantén conexión mente-músculo con el abdomen.",
+          "order": 0
+        },
+        {
+          "name": "Roman Chair Leg Raise",
+          "muscleGroup": "Abdomen (inferior)",
+          "workSets": 3,
+          "targetReps": "10-20",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Deja que la espalda baja se redondee al subir las piernas. Rango de reps amplio: ve hasta RPE 9-10.",
+          "order": 1
+        },
+        {
+          "name": "Ab Wheel Rollout",
+          "muscleGroup": "Core (completo)",
+          "workSets": 3,
+          "targetReps": "10-20",
+          "rpeInitial": "~9",
+          "rpeLast": "~9-10",
+          "rest": "~1-2 min",
+          "notes": "Baja bajo control usando el abdomen, no la cadera. Aumenta el rango de movimiento progresivamente.",
+          "order": 2
+        },
+        {
+          "name": "Hanging Leg Raise",
+          "muscleGroup": "Abdomen (inferior)",
+          "workSets": 3,
+          "targetReps": "10-20",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Variante colgada del leg raise. Controla el balanceo y evita usar impulso.",
+          "order": 3
+        },
+        {
+          "name": "Reverse Crunch",
+          "muscleGroup": "Abdomen (inferior)",
+          "workSets": 3,
+          "targetReps": "10-15",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Lleva las rodillas al pecho controlando el movimiento, sin usar impulso de piernas.",
+          "order": 4
+        },
+        {
+          "name": "Machine Crunch",
+          "muscleGroup": "Abdomen (recto)",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Variante en máquina del cable crunch: controla la negativa y aprieta el abdomen arriba.",
+          "order": 5
+        },
+        {
+          "name": "Plate-Weighted Crunch",
+          "muscleGroup": "Abdomen (recto)",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Sostén un disco sobre el pecho o detrás de la cabeza para añadir resistencia al crunch.",
+          "order": 6
+        },
+        {
+          "name": "Swiss Ball Rollout",
+          "muscleGroup": "Core (completo)",
+          "workSets": 3,
+          "targetReps": "10-20",
+          "rpeInitial": "~9",
+          "rpeLast": "~9-10",
+          "rest": "~1-2 min",
+          "notes": "Alternativa al ab wheel usando fitball. Baja bajo control usando el abdomen, no la cadera.",
+          "order": 7
+        },
+        {
+          "name": "LLPT Plank (Plancha con carga)",
+          "muscleGroup": "Core (isométrico)",
+          "workSets": 3,
+          "targetReps": "30-45 seg",
+          "rpeInitial": "~8-9",
+          "rpeLast": "~9",
+          "rest": "~1 min",
+          "notes": "Plancha con carga baja en la espalda alta para trabajo isométrico anti-extensión.",
+          "order": 8
+        }
+      ]
+    },
+    {
+      "name": "Espalda, Dorsales y Bíceps",
+      "order": 2,
+      "exercises": [
+        {
+          "name": "Cross-Body Lat Pull-Around",
+          "muscleGroup": "Dorsales",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Mantén cable y muñeca alineados durante todo el jalón. Siente un buen estiramiento del dorsal arriba.",
+          "order": 0
+        },
+        {
+          "name": "Straight-Bar Lat Prayer",
+          "muscleGroup": "Dorsales",
+          "workSets": 3,
+          "targetReps": "12-15",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Inclínate hacia adelante para un gran estiramiento del dorsal arriba, luego ponte erguido apretando abajo.",
+          "order": 1
+        },
+        {
+          "name": "Lean-Back Lat Pulldown",
+          "muscleGroup": "Dorsales",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Postura erguida al iniciar el jalón, inclínate 15-30° para involucrar más la espalda media. Toca el pecho suave cada rep.",
+          "order": 2
+        },
+        {
+          "name": "Chest-Supported Machine Row",
+          "muscleGroup": "Espalda (grosor)",
+          "workSets": 3,
+          "targetReps": "8-10",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~2-3 min",
+          "notes": "Abre los codos ~45° y aprieta fuerte las escápulas juntas arriba de cada repetición.",
+          "order": 3
+        },
+        {
+          "name": "Super-ROM Overhand Cable Row",
+          "muscleGroup": "Espalda (grosor)",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Agarre prono ancho. Rema inclinándote hacia adelante en la negativa y estírate hacia arriba al final.",
+          "order": 4
+        },
+        {
+          "name": "Arms-Extended 45° Hyperextension",
+          "muscleGroup": "Espalda baja",
+          "workSets": 2,
+          "targetReps": "10-20",
+          "rpeInitial": "~9",
+          "rpeLast": "~9-10",
+          "rest": "~2-3 min",
+          "notes": "Brazos extendidos a 45°. Deberías sentir un fuerte trabajo en espalda media y baja.",
+          "order": 5
+        },
+        {
+          "name": "Cable Paused Shrug-In",
+          "muscleGroup": "Trapecio / Espalda alta",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Encoge hacia las orejas. Pausa 1-2 seg arriba (contracción) y 1-2 seg abajo (estiramiento).",
+          "order": 6
+        },
+        {
+          "name": "Lying Paused Rope Face Pull",
+          "muscleGroup": "Espalda alta / Deltoide posterior",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Pausa 1-2 seg en la contracción de cada rep. ¡Contrae fuerte el deltoide posterior!",
+          "order": 7
+        },
+        {
+          "name": "Hammer Preacher Curl",
+          "muscleGroup": "Bíceps",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Aprieta fuerte la mancuerna a la mitad del agarre. Sube ~3/4 del rango (queda en el 3/4 inferior).",
+          "order": 8
+        },
+        {
+          "name": "Inverse DB Zottman Curl",
+          "muscleGroup": "Bíceps",
+          "workSets": 3,
+          "targetReps": "10-12",
+          "rpeInitial": "~9-10",
+          "rpeLast": "10",
+          "rest": "~1-2 min",
+          "notes": "Curl con agarre normal en la positiva, gira las palmas hacia arriba en la parte alta y baja con agarre supino.",
+          "order": 9
+        }
+      ]
+    }
+  ]
+}

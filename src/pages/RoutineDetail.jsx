@@ -45,6 +45,16 @@ export default function RoutineDetail() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [id]);
 
+  useEffect(() => {
+    if (showForm || confirmDeleteId !== null) {
+      const { overflow } = document.body.style;
+      document.body.style.overflow = 'hidden';
+      return () => {
+        document.body.style.overflow = overflow;
+      };
+    }
+  }, [showForm, confirmDeleteId]);
+
   function openNewForm() {
     setEditingId(null);
     setForm(EMPTY_FORM);
